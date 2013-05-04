@@ -1,1 +1,8 @@
 Configurations files for intranet in Ubuntu server
+
+Servicios:
+
+1. Samba
+2. Proftpd
+3. Asterisk
+4. App -> nginx, django, gunicorn
