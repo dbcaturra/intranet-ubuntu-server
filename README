@@ -2,7 +2,7 @@ Configurations files for intranet in Ubuntu server
 
 Servicios:
 
-1. Samba
-2. Proftpd
-3. Asterisk
+1. Samba. sudo apt-get install samba
+2. Proftpd. sudo apt-get install proftpd
+3. Asterisk. Asterisk from repository for RTC functions.
 4. App -> nginx, django, gunicorn
